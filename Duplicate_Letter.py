@@ -10,6 +10,6 @@ for j in range(0,len(b)-1):
             count = count+1
             print ("Duplicate Letter is ",b[j])
             
-
+#Duplicate letters
 print(b)
 print(count)
