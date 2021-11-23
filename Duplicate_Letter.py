@@ -11,5 +11,6 @@ for j in range(0,len(b)-1):
             print ("Duplicate Letter is ",b[j])
             
 #Duplicate letters
+# Changes using branch version
 print(b)
 print(count)
